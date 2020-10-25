@@ -1,0 +1,25 @@
+[33mcommit d244ab0af773fce4cd0395ce9aef8440cc0f5db5[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Daniel Betancur <daniel931105@gmail.com>
+Date:   Sat Oct 24 22:02:38 2020 -0500
+
+    Agregamos el cargo de la persona
+    
+    La persona es Daniel
+
+[33mcommit 7ac156fe4b8513573734c3741024927a08cd876d[m
+Author: Daniel Betancur <daniel931105@gmail.com>
+Date:   Sat Oct 24 22:01:12 2020 -0500
+
+    agregamos una correción ortográfica y descripción
+
+[33mcommit 67d1f15eb8b231b072d946007f0d07cc6d485291[m
+Author: Daniel Betancur <daniel931105@gmail.com>
+Date:   Sat Oct 24 21:55:09 2020 -0500
+
+    Cambios al archivo de historia
+
+[33mcommit b1a8f55e663b8dd494380336a63217fdfc081f16[m
+Author: Daniel Betancur <daniel931105@gmail.com>
+Date:   Sat Oct 24 21:53:15 2020 -0500
+
+    Este es el primer commit para este archivo
